@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
    I am a beginner in web dev. And I have tried out my first challenge, that is to create a Qr code component. I have given my best. Please do check it out for review.
 ### Screenshot
+![qr](https://github.com/deadanielle/qrcode-frontendmentor-1/assets/141745597/747f61c6-e8c3-4d2e-b2c3-188ea74e43a3)
 
-!["C:\Users\user\Pictures\Screenshots\Screenshot 2023-09-01 091401.png"](./screenshot.jpg)
 ### Links
 
 - Solution URL: [https://github.com/deadanielle/qrcode-frontendmentor-1.git](https://github.com/deadanielle/qrcode-frontendmentor-1.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ https://deadanielle.github.io/qrcode-challenge/]( https://deadanielle.github.io/qrcode-challenge/)
 
 ## My process
 
